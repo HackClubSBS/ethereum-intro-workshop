@@ -162,6 +162,6 @@ ethereum-intro-workshop/
 
 <div align="center">
 
-Made with ❤️ by **HackClub SBS** · Ahmedabad, India · 2026
+Made with ❤️ by **HackClub SBS** · India · 2026
 
 </div>
