@@ -19,7 +19,7 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Give students their **first structured introduction to Ethereum** — regardless of technical background
 - Host an **experienced Ethereum builder** to share real-world insights via a talk + AMA
@@ -45,7 +45,7 @@
 
 ---
 
-## 🗓 Event Agenda
+## Event Agenda
 
 > **Total Duration:** ~2.5 to 3 hours
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 👥 Target Audience
+## Target Audience
 
 | | |
 |---|---|
@@ -72,7 +72,7 @@
 
 ---
 
-## 💰 Budget Breakdown
+## Budget Breakdown
 
 | Item | Details | Est. Cost (INR) | Funded by |
 |------|---------|----------------|-----------|
@@ -88,7 +88,7 @@
 
 ---
 
-## 📦 Expected Deliverables
+## Expected Deliverables
 
 - [ ] **Post-event impact report** — full written report with overview, outcomes & learnings, submitted within 2 weeks
 - [ ] **Attendance data** — registration records and final headcount, broken down by institution
@@ -99,7 +99,7 @@
 
 ---
 
-## 🗺 Project Timeline
+## Project Timeline
 
 > Event window: **15 May – 15 October 2026** per EF program requirements.
 
@@ -114,7 +114,7 @@ Week 7    ──  Post-event survey · Impact report submitted to EF ESP
 
 ---
 
-## 🤝 Alignment with Ethereum Foundation Goals
+## Alignment with Ethereum Foundation Goals
 
 - **New audiences** — Open to all students and professionals in Ahmedabad, not just one institution, maximising reach
 - **Devcon 8 pathways** — Actively informing and encouraging top participants to apply for Devcon 8 scholarships
@@ -124,7 +124,7 @@ Week 7    ──  Post-event survey · Impact report submitted to EF ESP
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ethereum-intro-workshop/
@@ -138,7 +138,7 @@ ethereum-intro-workshop/
 
 ---
 
-## 🔗 Links
+## Links
 
 | Resource | Link |
 |----------|------|
@@ -148,7 +148,7 @@ ethereum-intro-workshop/
 
 ---
 
-## 📬 Contact
+## Contact
 
 **HackClub SBS · Shanti Business School, Ahmedabad**
 
