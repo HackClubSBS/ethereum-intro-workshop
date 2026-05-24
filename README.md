@@ -152,8 +152,11 @@ ethereum-intro-workshop/
 
 **HackClub SBS · Shanti Business School, Ahmedabad**
 
-[![Email](https://img.shields.io/badge/Email-hetanshsachaniya07%40gmail.com-4C56D4?style=flat-square&logo=gmail&logoColor=white)](mailto:hetanshsachaniya07@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40hetansh2220-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hetansh2220)
+| Name | Email | Twitter |
+|------|-------|---------|
+| Hetansh | [![](https://img.shields.io/badge/-hetanshsachaniya07%40gmail.com-4C56D4?style=flat-square&logo=gmail&logoColor=white)](mailto:hetanshsachaniya07@gmail.com) | [![](https://img.shields.io/badge/-%40hetansh2220-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hetansh2220) |
+| Dhrumil | [![](https://img.shields.io/badge/-dhrumildholakiya12%40gmail.com-4C56D4?style=flat-square&logo=gmail&logoColor=white)](mailto:dhrumildholakiya12@gmail.com) | [![](https://img.shields.io/badge/-%40Dhrumil1189-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Dhrumil1189) |
+| Darsh | [![](https://img.shields.io/badge/-darshbhatt089%40gmail.com-4C56D4?style=flat-square&logo=gmail&logoColor=white)](mailto:darshbhatt089@gmail.com) | [![](https://img.shields.io/badge/-%40bhatt__darsh09-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/bhatt_darsh09) |
 
 ---
 
